@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on KMA<br>🌱 I’m currently learning Swift<br>💬 Ask me about: <:>
+🔭 I’m currently studying on KMA<br>🌱 I’m currently learning Swift
 
 
 ## 🌐 Socials:
