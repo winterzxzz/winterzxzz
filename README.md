@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on KMA<br>🌱 I’m currently learning Swift
+🔭 aespa Winter
 
 
 # 💻 Tech Stack:
