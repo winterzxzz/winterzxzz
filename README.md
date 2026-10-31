@@ -1,75 +1,64 @@
-<!-- ❄️ WINTER PROFILE ❄️ -->
-
-<a href="https://github.com/winterzxzz">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,50:74c7ec,100:cba6f7&height=200&section=header&text=Winter%20Phan&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Code%20in%20winter%20❄️&descAlignY=58&descSize=18" alt="header"/>
-</a>
+<!-- ❄️ WINTER // FROZEN PROFILE ❄️ -->
 
 <div align="center">
 
-<a href="https://github.com/winterzxzz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=74C7EC&center=true&vCenter=true&width=560&lines=Flutter+%26+Mobile+Engineer;macOS+%2F+SwiftUI+Developer;Full-Stack+%7C+Node.js+%2B+TypeScript;Building+native+apps+with+cold+precision" alt="Typing SVG"/>
-</a>
+<img src="./assets/winter-chibi.png" width="300" alt="chibi Winter"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=520&lines=Flutter+%26+Mobile+Engineer;macOS+%2F+SwiftUI+Developer;Full-Stack+%E2%80%94+Node.js+%2B+TypeScript;Building+native+apps+with+cold+precision" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## 🧊 About Me
+## 🌨️ About Me
 
 ```dart
 class Winter extends Developer {
   final String location   = 'Vietnam 🇻🇳';
   final List<String> code = ['Flutter', 'Swift', 'TypeScript'];
-  final String currently  = 'Building native macOS + mobile apps';
+  final String currently  = 'Native macOS + mobile apps';
   final String vibe       = 'aespa Winter ❄️';
-
-  @override
-  bool get shipsCleanArchitecture => true;
 }
 ```
 
-- 🔭 Focused on **Flutter / SwiftUI** apps and **full-stack** tooling
-- 🧠 Clean Architecture, MVVM, BLoC — code that reads like the surrounding code
-- ❄️ aespa Winter fan — hence the winter everything
-
 ---
 
-## 🚀 Featured Projects
+## 🧊 Frozen Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ [winter_voice](https://github.com/winterzxzz/winter_voice)
-Free open-source **dictation app for macOS** — on-device Whisper speech-to-text for vibe coding. 90+ languages.
+### 🖼️ [WinterShot](https://github.com/winterzxzz/winter_shot)
+Free open-source **macOS screenshot & screen recording** app — freeze-frame capture, 9 annotation tools, background beautify, OCR, and a Screen Studio-style editor with click-to-zoom. 100% on-device.
 
-`Swift` · `SwiftUI` · `Whisper` · ⭐ 2
+![stars](https://img.shields.io/github/stars/winterzxzz/winter_shot?style=flat-square&color=38bdf8&labelColor=0b1120&logo=github) `Swift` · `SwiftUI` · [🌐 site](https://winterzxzz.github.io/winter_shot/)
 
 </td>
 <td width="50%" valign="top">
 
-### 📸 [winter_shot](https://github.com/winterzxzz/winter_shot)
-Native **macOS menu-bar screenshot tool**. SwiftUI, MVVM, Clean Architecture.
+### 🎙️ [WinterVoice](https://github.com/winterzxzz/winter_voice)
+Free open-source **dictation app for macOS** — speak your prompts into Claude Code, Cursor or any app. Private on-device Whisper, 90+ languages.
 
-`Swift` · `SwiftUI` · `MVVM` · ⭐ 2
+![stars](https://img.shields.io/github/stars/winterzxzz/winter_voice?style=flat-square&color=38bdf8&labelColor=0b1120&logo=github) `Swift` · `Whisper` · [⬇️ download](https://github.com/winterzxzz/winter_voice/releases/latest)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 [smart_toeic_flutter](https://github.com/winterzxzz/smart_toeic_flutter)
-**AI-powered TOEIC prep** app — simulates real tests, optimizes study strategy. Flutter + BLoC.
+### 💎 [liquid_glass_native](https://github.com/winterzxzz/flutter_native_view)
+**Liquid Glass widgets** for Flutter, backed by native SwiftUI on iOS 26+.
 
-`Flutter` · `Dart` · `BLoC` · ⭐ 2
+![pub](https://img.shields.io/pub/v/liquid_glass_native?style=flat-square&color=38bdf8&labelColor=0b1120&logo=dart) `Flutter` · `Swift` · [📦 pub.dev](https://pub.dev/packages/liquid_glass_native)
 
 </td>
 <td width="50%" valign="top">
 
-### 💎 [flutter_native_view](https://github.com/winterzxzz/flutter_native_view)
-**Liquid Glass widgets** for Flutter, backed by native SwiftUI on iOS 26+.
+### 🔔 [app_update_check](https://github.com/winterzxzz/app_update_check)
+Flutter plugin — check App Store / Google Play for a newer version, optional or forced update dialog, TestFlight detection. Zero dependencies.
 
-`Flutter` · `Dart` · `Swift`
+![pub](https://img.shields.io/pub/v/app_update_check?style=flat-square&color=38bdf8&labelColor=0b1120&logo=dart) `Flutter` · `Dart` · [📦 pub.dev](https://pub.dev/packages/app_update_check)
 
 </td>
 </tr>
@@ -77,40 +66,28 @@ Native **macOS menu-bar screenshot tool**. SwiftUI, MVVM, Clean Architecture.
 
 <div align="center">
   <a href="https://github.com/winterzxzz?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%20repos-89b4fa?style=for-the-badge&logo=github&logoColor=white" alt="all repos"/>
+    <img src="https://img.shields.io/badge/❄_All_repos-0b1120?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="all repos"/>
   </a>
 </div>
 
 ---
 
-## 💻 Tech Stack
+## ❄️ Tech Stack
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0071e3?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0b1120?style=for-the-badge&logo=flutter&logoColor=7dd3fc)
+![Dart](https://img.shields.io/badge/Dart-0b1120?style=for-the-badge&logo=dart&logoColor=7dd3fc)
+![Swift](https://img.shields.io/badge/Swift-0b1120?style=for-the-badge&logo=swift&logoColor=7dd3fc)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0b1120?style=for-the-badge&logo=swift&logoColor=7dd3fc)
+![Kotlin](https://img.shields.io/badge/Kotlin-0b1120?style=for-the-badge&logo=kotlin&logoColor=7dd3fc)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1120?style=for-the-badge&logo=typescript&logoColor=e0f2fe)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1120?style=for-the-badge&logo=javascript&logoColor=e0f2fe)
+![Node.js](https://img.shields.io/badge/Node.js-0b1120?style=for-the-badge&logo=nodedotjs&logoColor=e0f2fe)
+![NestJS](https://img.shields.io/badge/NestJS-0b1120?style=for-the-badge&logo=nestjs&logoColor=e0f2fe)
+![React](https://img.shields.io/badge/React-0b1120?style=for-the-badge&logo=react&logoColor=e0f2fe)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winterzxzz/winterzxzz/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winterzxzz/winterzxzz/output/snake.svg"/>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/winterzxzz/winterzxzz/output/snake.svg"/>
-  </picture>
 </div>
 
 ---
@@ -119,10 +96,10 @@ Native **macOS menu-bar screenshot tool**. SwiftUI, MVVM, Clean Architecture.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/winter7123/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/winter7123/"><img src="https://img.shields.io/badge/LinkedIn-0b1120?style=for-the-badge&logo=linkedin&logoColor=7dd3fc" alt="linkedin"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:74c7ec,100:89b4fa&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,55:0c4a6e,100:020617&height=110&section=footer" alt="footer"/>
 
 </div>
